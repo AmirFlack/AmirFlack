@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [amirflack.github.io](amirflack.github.io)
 
-- 💬 Ask me about **python, c#, ccna, network**
+- 💬 Ask me about **python, c#, ccna, firewall, network topics**
 
 - 📫 How to reach me **a.h.poodi@gmail.com**
 
