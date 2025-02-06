@@ -1,7 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm AmirFlack</h1>
-<h3 align="center">I'm 21 programmer and a computer science student!
-also love streaming and playing games</h3>
+<h3 align="center">I'm 21 programmer and a computer science student! \nalso love streaming and playing games</h3>
 <h3 align="cneter"> also love streaming and playing games</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
